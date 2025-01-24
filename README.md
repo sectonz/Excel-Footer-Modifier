@@ -13,5 +13,5 @@ pip install openpyxl xlrd xlwt xlutils
 python Footer_Modifier.py
 
 
-Or just execute the .exe file (Smartscreen may recognize it as a strange file since it doesn't have the necessary certificate)
+**Or just execute the .exe file** (Smartscreen may recognize it as a strange file since it doesn't have the necessary certificate)
 
