@@ -8,7 +8,7 @@ Made with Python 3.12.8
 
 git clone https://github.com/sectonz/Excel-Footer-Modifier.git
 
-pip install openpyxl xlrd xlwt xlutils
+pip install openpyxl xlrd xlwt xlutils pandas
 
 python Footer_Modifier.py
 
