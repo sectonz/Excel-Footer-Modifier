@@ -1,6 +1,7 @@
 # Excel-Footer-Modifier
 
 Tiny portable script/exe that allow the user to change unlimited Excel `.xls` and `xlsx` file footers at once.
+
 Made with Python 3.12.8 
 
 # Installation
